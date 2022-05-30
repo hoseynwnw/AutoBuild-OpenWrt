@@ -52,7 +52,7 @@ git clone https://github.com/honwen/luci-app-aliddns package/danxiaonuo/luci-app
 # git clone https://github.com/rufengsuixing/luci-app-usb3disable.git package/danxiaonuo/luci-app-usb3disable
 
 # 管控上网行为
-# git clone https://github.com/destan19/OpenAppFilter.git package/danxiaonuo/OpenAppFilter
+git clone https://github.com/destan19/OpenAppFilter.git package/danxiaonuo/OpenAppFilter
 
 # Rclone-OpenWrt
 # git clone https://github.com/ElonH/Rclone-OpenWrt.git package/danxiaonuo/Rclone-OpenWrt
